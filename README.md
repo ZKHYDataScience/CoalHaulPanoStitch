@@ -1,4 +1,4 @@
-# Computer Vision Algorithms
+# AlgoHub
 
 本仓库更新点云与图像视觉算法，如图像拼接、点云处理等相关的计算机视觉技术。
 
