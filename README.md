@@ -6,7 +6,7 @@
 
 ### 1. Stitch （车厢拼接）
 一种用于从视频帧拼接图像的算法，得到完整车厢。
-- [Stitch Project Documentation](./stitch/README_stitch.md)
+- [Stitch 项目介绍文档](./README_stitch.md)
 
 ### 未来计划项目
 - 点云克里金插值
